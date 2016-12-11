@@ -1,0 +1,6 @@
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\bin\Debug\Twitch Plays Bot.exe.config
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\bin\Debug\Twitch Plays Bot.exe
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\bin\Debug\Twitch Plays Bot.pdb
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\obj\Debug\Twitch Plays Bot.csprojResolveAssemblyReference.cache
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\obj\Debug\Twitch Plays Bot.exe
+C:\CSharp_Projects\Twitch Plays Bot\Twitch Plays Bot\obj\Debug\Twitch Plays Bot.pdb

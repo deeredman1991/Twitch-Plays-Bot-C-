@@ -1,0 +1,3 @@
+bot_username : Deebot1991
+oauth : 7oa7sqboo3mdmlfoo9s0if86zt6rmz
+channel : deeredman1991

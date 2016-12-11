@@ -1,0 +1,6 @@
+up : UP_ARROW : on
+down : DOWN_ARROW : on
+left : LEFT_ARROW : on
+right : RIGHT_ARROW : on
+a : z : off
+b : x : off
