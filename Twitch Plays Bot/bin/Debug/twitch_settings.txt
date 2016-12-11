@@ -1,3 +1,3 @@
-bot_username : Deebot1991
-oauth : <get your own>
+bot_username : thetplaysnetwork
+oauth : 7i34m807819hafnc2g85pn1yckw70p
 channel : deeredman1991
